@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Adventures in the Philippine Islands</dc:title>
+      <dc:creator>Paul Proust de la Gironière (1797–1862)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2009-10-27</dc:publisher>
+      <dc:date>2009-10-27</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by Jeroen Hellingman and the Online Distributed Proofreading Team at www.pgdp.net.
+This ebook was prepared from scans prepared by the University of Michigan Library as part of their The United States and its Territories collection. The illustrations have been taken from scans of another edition of this work at the Internet Archive.
+The same scans are indexed by Google Books, but only accessible as snippet view.
+Earlier editions of this work are available under the title Twenty Years in the Philippines (First copy at Google Books, second copy at Google Books, first copy at The Internet Archive, second copy at The Internet Archive). This earlier edition includes a short appendix on the Philippines and its agriculture, and a number of attestations not reproduced here.
+The French original of this work is available under the title Aventures d’un Gentilhomme Breton aux iles Philippines from Project Gutenberg.
+</dc:rights>
+      <dc:identifier>pg:30347</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
